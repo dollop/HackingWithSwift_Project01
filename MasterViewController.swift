@@ -5,6 +5,7 @@
 //  Created by Robert Burns on 5/3/16.
 //  Copyright © 2016 dollop Inc. All rights reserved.
 //
+// On 5/5/16 I successfully got GitHub to accept these files from the command line. Next step is to get it to work via Xcode.
 
 import UIKit
 
